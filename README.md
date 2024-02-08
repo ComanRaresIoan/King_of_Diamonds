@@ -1,4 +1,13 @@
-This code implements a game called "King of Diamonds" based on rules inspired by the series "Alice in Borderland". Here's a breakdown of its capabilities and stages:
+This code implements a game called "King of Diamonds" based on rules inspired by the series "Alice in Borderland". 
+Correct order of running the .py to play the game:
+
+You will need 5 different players!
+First, run King_Of_Diamonds_5_Players.
+Second, run King_Of_Diamonds_4_Players.
+Third, run King_Of_Diamonds_3_Players.
+Fourth run King_Of_Diamonds_2_Players.
+
+Here's a breakdown of its capabilities and stages:
 
 Capabilities:
 1. Player Input: It allows players to input their names at the beginning of the game.
